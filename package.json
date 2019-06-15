@@ -1,0 +1,15 @@
+{
+  "name": "gardenbot",
+  "version": "2.4.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compare-lists": "^1.0.7",
+    "discord.js": "^11.4.2"
+  }
+}
